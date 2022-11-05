@@ -13,3 +13,37 @@
  *= require_tree .
  *= require_self
  */
+
+body {
+  font-family: verdana, arial, helvetica, sans-self;
+  font-size: 13px;
+  line-height: 18px;
+  margin: 33px;
+}
+
+p {
+  margin: 33px;
+}
+
+a:visited {
+  color: #666  /* 訪問済みのリンクの色彩を指定 */
+}
+
+th {
+  padding-bottom: 5px;
+}
+
+td {
+  display: inline-block;
+  padding-bottom: 7px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: 33px;
+}
+
+.new_book_box {
+  margin-bottom: 10px;
+}
+lavel {
+  display: block;
+}
