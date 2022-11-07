@@ -44,8 +44,24 @@ td {
 }
 
 .error_box {
-  padding: 7px;
+  width: 450px;
+  border: solid #ff0000;
+  background-color: #dcdcdc;
 }
+
+.error_box h2 {
+  background-color: #ff0000;
+  color: #fff;
+  font-size: 10px;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding: 2px 2px 2px 5px;
+}
+
+.message_color{
+  color: green;
+}
+
 lavel {
   display: block;
 }
