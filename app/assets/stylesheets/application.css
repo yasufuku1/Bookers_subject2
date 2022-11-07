@@ -39,8 +39,12 @@ td {
   padding-right: 5px;
 }
 
-.new_book_box {
+.book_box {
   margin-bottom: 10px;
+}
+
+.error_box {
+  padding: 7px;
 }
 lavel {
   display: block;
